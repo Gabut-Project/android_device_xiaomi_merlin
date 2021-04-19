@@ -53,3 +53,6 @@ USE_GAPPS := true
 
 # Official Tag
 NAD_BUILD_TYPE := OFFICIAL
+
+# Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
